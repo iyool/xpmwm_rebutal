@@ -1,6 +1,6 @@
 # Figures for ICML 2025 Submission 2092 Rebuttal
 
-![Prood of Proposition 3.2](/prop_proof.pdf)
+![Proof of Proposition 3.2](/prop_proof.pdf)
 
 
 ![Abltaion Results for Vectorized Event Prediction](/vec_rew_comp.pdf)
