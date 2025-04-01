@@ -18,3 +18,6 @@
 ## Pair-Wise Cross Play for CoMeDi
 ![Pair-Wise Cross Play for CoMeDi](/lipo_heatmap.png)
 
+## User Studies Results
+![User Studies Results](/user_studies_mean_rewards.png)
+
